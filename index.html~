@@ -1,0 +1,247 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Xinchun Ma｜马欣纯</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/mathmain.css" />
+		<style>
+  #additional-content {
+    display: none;
+    margin-top: -50px;
+  }
+</style>
+	</head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4449CMETZ"></script>
+<script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4449CMETZ');
+</script>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header 
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>-->
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h3> Xinchun Ma｜马欣纯<br />
+										<!--	<h3> 马欣纯<br />-->
+										</header>
+										<br>
+										<p>I'm a graduate student at UChicago under the supervision of Victor Ginzburg. I study geometric representation theory. 
+										Currently I'm interested in questions related to Cherednik algebras, character D-modules, Hilbert schemes of points and link homology.
+										<br>I'll be on the job market in fall 2024.
+										<br>
+										<br>Email: xcma@uchicago.edu
+										<br>
+										<br><a href="pdfs/cv.pdf" >CV </a></p>
+									</div>
+									<span class="image object">
+  <img id="randomImage" src="" alt="Random Image">
+    <script src="script.js"></script>
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section id="research">
+									<header class="major">
+										<h2>Research</h2>
+									</header>
+																	<div class="content">
+				                  <br>  <em>From Cherednik algebras to knot homology via cuspidal D-modules</em>, <a href="https://arxiv.org/abs/2407.00971">arxiv</a>, <a href="pdfs/cuspidal_catalan.pdf">pdf</a>
+				               <br> <em>Rational Cherednik algebras and torus knot invariants,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv</a>, <a href="pdfs/filtrations.pdf">pdf</a>
+									<br><em>θ-triangle and ω-parallelogram pairs with common area and common perimeter</em> with Matilde Lalín,  Journal of Number Theory 202 (2019): 1-26. <a href="pdfs/geometriccongruent.pdf">pdf</a>
+									</div>
+								
+							
+									<br><b>Talks and presentations:</b>
+									<br> Aug 2024, Mathematics seminar, Montana State Univeristy
+									<br> June 2024, <a href="pdfs/poster_UNAM.pdf">poster</a> at VI Canada-Mexico-US Meeting, UNAM
+									<br> May 2024, 10-min contributed presentation at Representation Theory and Related Geometry: Progress and Prospects, UGA, <a href="pdfs/slides_UGA.pdf">slides</a>
+									<br> April 2024, special session on “Geometric Methods in Representation Theory”, AMS Spring Central Sectional Meeting, <a href="pdfs/slides_Milwaukee.pdf">slides</a>
+									<br> Jan 2024, Algebra & Discrete Mathematics seminar, UC Davis
+									<br> Oct 2023, Algebra and Algebraic geometry seminar, UW Madison
+									<br> Sept 2023, AWM Research Symposium special session, Atlanta	
+									<br> Aug 2022, QUAntum groups, Categorification, Knot invariants, and Soergel bimodules (QUACKS) II, UOregon
+									<br> April 2022, Algebra & Discrete Mathematics seminar, UC Davis
+									</section>
+					<!--				<br><a href="#" id="see-more-link">More</a>
+<div id="additional-content">
+
+</div>
+
+<script>
+  // JavaScript to toggle visibility of additional content
+  document.getElementById('see-more-link').addEventListener('click', function(event) {
+    event.preventDefault(); // Prevent default link behavior (scrolling to top)
+
+    var additionalContent = document.getElementById('additional-content');
+
+    if (additionalContent.style.display === 'none') {
+      additionalContent.style.display = 'block';
+      this.textContent = 'Less'; // Change link text
+    } else {
+      additionalContent.style.display = 'none';
+      this.textContent = 'More'; // Change link text
+    }
+  });
+</script>
+
+
+							<!-- Section -->
+									<section id="teaching">
+									<header class="major">
+										<h2>Teaching</h2>
+									</header>
+									<div class="content">
+
+										<p><b>Instructor of Record:</b>
+<br>TBD, 2024-2025
+<br>Math 152, Calculus II, 2023-2024
+<br>Math 151-152, Calculus I-II, 2022-23
+<br>Math 131, 132, 153, Calculus I-III	, 2021-22
+<br>
+<br><b>Teaching Assistant:</b>
+<br> Linear algebra, Intro to Differentiable Manifolds and Integration on Manifolds, 
+Intro to Riemannian Geometry, 2020-21
+<br>
+<br><b>Mentoring:</b>
+<br>UChicago REU mentor: 2020, 2021
+<br>UChicago DRP mentor: 2021-2024</p>
+	<!-- <br>Winter 2021 (Helena Perez-Stark: differential forms), 
+<br>Spring 2022 (Jen Tang: cohomology of S^n), 
+<br>Winter 2023 (Daohong Xu: p-adic numbers),
+<br>Spring 2024 (Jake Zummo: prime spectrums)-->
+
+									</div>
+								</section>
+								
+									<section id="miscellaneous">
+									<header class="major">
+										<h2>Miscellaneous</h2>
+									</header>
+									<div class="contents">
+									<p> If you live in Chicago, foster for <a href="https://hydeparkcats.org">Hyde park cats</a>!
+									<br>I highly recommend <a href="https://awm-math.org/meetings/awm-research-symposium/">the AWM Research Symposium</a>.
+
+									</div>
+								</section>
+
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder=" " />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+									</header>
+									<ul>
+										<li><a href="#banner">About</a></li>
+										<li><a href="#research">Research</a></li>
+						
+										<li><a href="#teaching">Teaching</a></li>
+										<li><a href="#miscellaneous">Miscellaneous</a></li>
+											<li>
+											<span class="opener">Seminars</span>
+											<ul>
+												<li><a href="link.html">Link homology seminar</a></li>
+											</ul>
+										</li>
+								</nav>
+
+							<!-- Section 
+								<section>
+									<header class="major">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section 
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>-->
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy;  Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
