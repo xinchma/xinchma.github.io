@@ -6,6 +6,15 @@
 -->
 <html>
 	<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FBEKWV7M30"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FBEKWV7M30');
+</script>
 		<title>Xinchun Ma</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -17,16 +26,7 @@
   }
 </style>
 	</head>
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4449CMETZ"></script>
-<script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-K4449CMETZ');
-</script>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -145,7 +145,7 @@ Intro to Riemannian Geometry, 2020-21
 									<br> June 2025, Conference on "Representation theory with emphasis on Langlands program", Northeastern University
 									<br> Jan 2025, Combinatorics seminar, WUSTL
 									<br>Oct 2024, Representation theory seminar, LSU
-									<br> Sept 2024, Lie group seminar, MIT, <a href="https://mit.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=F_DHrgZGr_kANuvzNEeTBaf73aIVMLXNX8BOnNa_l1F9TUO89cHmNa4BEfJBLcpZ.0sovJPDaNFFSVsb2&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FLPVGcYOGqymnjri7opqH2cJz_VSnk-PPzVEi2fIB8Gor3lksXZseHi1bMOS8n_Q3.Gh7lJ5n1cbwzsWFG">recording</a> (request the password from the organizers)
+									<br> Sept 2024, Lie group seminar, MIT, <a href="https://mit.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=F_DHrgZGr_kANuvzNEeTBaf73aIVMLXNX8BOnNa_l1F9TUO89cHmNa4BEfJBLcpZ.0sovJPDaNFFSVsb2&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FLPVGcYOGqymnjri7opqH2cJz_VSnk-PPzVEi2fIB8Gor3lksXZseHi1bMOS8n_Q3.Gh7lJ5n1cbwzsWFG">recording</a> (request password from the organizers)
 									<br> Sept 2024, Representation theory seminar, UMass Amherst
 									<br> Sept 2024,  Geometry, Symmetry and Physics seminar, Yale Univeristy
 									<br> Aug 2024, Mathematics seminar, Montana State Univeristy
