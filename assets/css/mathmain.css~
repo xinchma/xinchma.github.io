@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1; }
 
+
 ol, ul {
   list-style: none; }
 
@@ -142,9 +143,10 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 0; }
 
 h1 {
-  font-size: 4em;
-  margin: 0 0 0.5em 0;
-  line-height: 1.3; }
+    font-size: 1.25em; /* You can adjust the size to whatever you prefer */
+    font-weight: normal; /* Make the text weight normal if it's too bold */
+    line-height: 1.2; /* Adjust the line height to reduce spacing */
+}
 
 h2 {
   font-size: 1.75em; }
@@ -163,7 +165,7 @@ h6 {
 
 @media screen and (max-width: 1680px) {
   h1 {
-    font-size: 3.5em; } }
+    font-size: 1.25em; } }
 
 @media screen and (max-width: 980px) {
   h1 {
@@ -1891,7 +1893,7 @@ button,
     font-variant: normal;
     text-rendering: auto;
     line-height: 1;
-    text-transform: none !important;
+    text-transform: none;
     font-family: 'Font Awesome 5 Free';
     font-weight: 900; }
   #search form:before {
