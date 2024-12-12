@@ -1,5 +1,4 @@
 const images = [
-    'images/highdivide.jpg',
     'images/littlecolorado.jpg'
 ];
 
