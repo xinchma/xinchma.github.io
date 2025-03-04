@@ -56,16 +56,16 @@
                               </header>
 
 										<br>
-										<p>I'm a graduate student at UChicago, advised by Victor Ginzburg. I study geometric representation theory. 
-										Currently I'm interested in questions at the intersection of Cherednik algebras, character D-modules, Hilbert schemes of points and link homology.
-										<br>* I'm on the postdoc job market in fall 2024. <a href="pdfs/cv.pdf" >CV </a>
-										<br>Email: xcma at uchicago dot edu
+										<p>I'm a graduate student at UChicago, advised by Victor Ginzburg. <!--I study geometric representation theory. 
+										Currently I'm interested in questions at the intersection of Cherednik algebras, character D-modules, Hilbert schemes of points and link homology.-->
+										<br>gmail: xinchma   
+										<br><a href="images/littlecolorado.jpg">photo</a>
 									</p>
 									</div>
-									<span class="image object">
+							<!--		<span class="image object">
   <img id="randomImage" src="" alt="Random Image">
     <script src="script.js"></script>
-									</span>
+									</span>-->
 								</section>
 
 							<!-- Section -->
@@ -74,9 +74,11 @@
 										<h2>Research</h2>
 									</header>
 																	<div class="content">
-				                  <br>  <em>From Cherednik algebras to knot homology via cuspidal D-modules</em>, <a href="https://arxiv.org/abs/2407.00971">arxiv:2407.00971</a>, <a href="pdfs/cuspidal_catalan.pdf">pdf</a>
+				                  <br>  <em>From Cherednik algebras to knot homology via cuspidal D-modules</em>, <a href="https://arxiv.org/abs/2407.00971">arxiv:2407.00971</a>, <a href="pdfs/cuspidal_catalan.pdf">pdf</a> (more updated than arxiv version)
 				               <br> <em>Rational Cherednik algebras and torus knot invariants: filtrations,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv:2402.18770</a>, <a href="pdfs/filtrations.pdf">pdf</a>
+									<p>From REU:
 									<br><em>θ-triangle and ω-parallelogram pairs with common area and common perimeter</em> with Matilde Lalín,  Journal of Number Theory 202 (2019): 1-26. <a href="pdfs/geometriccongruent.pdf">pdf</a>
+									</p>
 									</div>
 								
 				
@@ -164,7 +166,7 @@ Intro to Riemannian Geometry, 2020-21
 										<h2>Miscellaneous</h2>
 									</header>
 									<div class="contents">
-									<p> If you live in Chicago, foster for <a href="https://hydeparkcats.org">Hyde park cats</a>!
+									<p> If you live in Chicago, foster for <a href="https://hydeparkcats.org">Hyde Park Cats</a>!
 									<br>I highly recommend <a href="https://awm-math.org/meetings/awm-research-symposium/">the AWM Research Symposium</a>.
 
 									</div>
@@ -195,8 +197,8 @@ Intro to Riemannian Geometry, 2020-21
 						
 										<li><a href="#teaching">Teaching</a></li>
 
-										<li><a href="./talks.html">Talks and presentations</a></li>
-							<!--													<li><a href="./notes.html">notes</a></li>-->
+										<li><a href="./talks.html">Talks</a></li>
+
 		                        <li><a href="#miscellaneous">Miscellaneous</a></li>
 								</nav>
 
