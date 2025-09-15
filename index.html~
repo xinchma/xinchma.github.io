@@ -6,15 +6,6 @@
 -->
 <html>
 	<head>
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FBEKWV7M30"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FBEKWV7M30');
-</script>
 		<title>Xinchun Ma</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -56,7 +47,7 @@
                               </header>
 
 										<br>
-										<p>I'm a graduate student at UChicago, advised by Victor Ginzburg. <!--I study geometric representation theory. 
+										<p>I'm a postdoc at MIT. I finished my PhD at UChicago in 2025, advised by Victor Ginzburg.<!--I study geometric representation theory. 
 										Currently I'm interested in questions at the intersection of Cherednik algebras, character D-modules, Hilbert schemes of points and link homology.-->
 										<br>gmail: xinchma   
 										<br><a href="images/littlecolorado.jpg">photo</a>
