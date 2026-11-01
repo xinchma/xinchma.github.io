@@ -11,9 +11,59 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/mathmain.css" />
 		<style>
+  #main {
+    font-size: 1.1em;
+  }
+  #main a,
+  #main a:hover,
+  #main a:hover strong {
+    color: #245c3a !important;
+  }
+  #main a:hover {
+    border-bottom-color: #245c3a;
+  }
+  #main > .inner {
+    padding: 0 clamp(1.25rem, 4vw, 3rem) 1rem;
+  }
+  #main > .inner > section {
+    padding: 1.5em 0 1.25em;
+  }
+  #main p {
+    margin-bottom: 1em;
+  }
+  #banner h1 {
+    font-size: 1.25em;
+    margin: 0 0 0.65em;
+  }
+  #banner .content > br,
+  #research .content > br:first-child {
+    display: none;
+  }
+  #banner p {
+    margin-bottom: 0;
+  }
+  #main header.major > h2 {
+    font-size: 1.3em;
+    margin-bottom: 0.65em;
+    padding-bottom: 0.3em;
+  }
+  #research header.major > h2,
+  #teaching header.major > h2 {
+    border-bottom: 0;
+  }
+  #footer .copyright {
+    margin-bottom: 0;
+  }
   #additional-content {
     display: none;
     margin-top: -50px;
+  }
+  #teaching .current-teaching {
+    margin-bottom: 0.75em;
+  }
+  #teaching .current-teaching > p,
+  #teaching .uchicago-teaching > p {
+    margin: 0.5em 0 0 1em;
   }
 </style>
 	</head>
@@ -47,7 +97,8 @@
                               </header>
 
 										<br>
-										<p>I'm a postdoc at MIT. I finished my PhD at UChicago in 2025, advised by Victor Ginzburg.<!--I study geometric representation theory. 
+										<p>I'm a CLE Moore instructor and NSF postdoc at MIT, mentored by <a href="https://math.mit.edu/~bezrukav/">Roman Bezrukavnikov</a>. I finished my PhD at UChicago in 2025, advised by <a href="https://www.math.uchicago.edu/~ginzburg/">Victor Ginzburg</a>.<!--I study geometric representation theory. 
+					
 										Currently I'm interested in questions at the intersection of Cherednik algebras, character D-modules, Hilbert schemes of points and link homology.-->
 										<br>gmail: xinchma   
 										<br><a href="images/littlecolorado.jpg">photo</a>
@@ -65,21 +116,15 @@
 										<h2>Research</h2>
 									</header>
 																	<div class="content">
-				                  <br>  <em>From Cherednik algebras to knot homology via cuspidal D-modules</em>, <a href="https://arxiv.org/abs/2407.00971">arxiv:2407.00971</a>, <a href="pdfs/cuspidal_catalan.pdf">pdf</a> (more updated than arxiv version)
-				               <br> <em>Rational Cherednik algebras and torus knot invariants: filtrations,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv:2402.18770</a>, <a href="pdfs/filtrations.pdf">pdf</a>
-
-									</div>
-								
-				
-									</section>
-				<!--				
-				
-													<p>From REU:
+									 <br>  <em>Affine Springer fibers, Cherednik algebra modules and Hilbert schemes: torus link case</em>, joint with Pablo Boixeda Alvarez and Thomas Hameister, almost ready, <a href="pdfs/noncoprime_hikita.pdf">pdf</a>
+									 <br>  <em>On the elliptic Hall category</em> with Roman Bezrukavnikov and Ivan Losev, <a href="https://arxiv.org/abs/arXiv:2610.33992">arxiv:2610.33992</a>, <a href="pdfs/EHC.pdf">pdf</a> 
+				                  <br>  <em>From Cherednik algebras to knot homology via cuspidal D-modules</em>, <a href="https://arxiv.org/abs/2407.00971v2">arxiv:2407.00971</a>, <a href="pdfs/cuspidal.pdf">pdf</a> 
+				               <br> <em>Rational Cherednik algebras and torus knot invariants,</em> Int. Math. Res. Not. 10 (2026), <a href="pdfs/filtrations.pdf">pdf</a>
 									<br><em>θ-triangle and ω-parallelogram pairs with common area and common perimeter</em> with Matilde Lalín,  Journal of Number Theory 202 (2019): 1-26. <a href="pdfs/geometriccongruent.pdf">pdf</a>
 									</p>
 									
 									
-								<br><a href="#" id="see-more-link">More</a>
+								
 <div id="additional-content">
 
 </div>
@@ -109,19 +154,25 @@
 									</header>
 									<div class="content">
 
-										<p><b>Instructor of Record:</b>
-<br>Math 151-152, Calculus I-II, 2024-2025
+										<div class="current-teaching">
+  <b>At MIT:</b>
+  <p>System functions and the Laplace transform, 2027 IAP
+<br>Introduction to metric spaces, 2027 IAP
+<br>Undergraduate seminar on algebra, 2026 Fall
+<br> PRIMES mentor, 2026
+</p>
+</div>
+<div class="uchicago-teaching">
+  <b>At UChicago:</b>
+  <p><b>Instructor of Record:</b><br>Math 151-152, Calculus I-II, 2024-2025
 <br>Math 152, Calculus II, 2023-2024
 <br>Math 151-152, Calculus I-II, 2022-23
-<br>Math 131, 132, 153, Calculus I-III	, 2021-22
-<br>
-<br><b>Teaching Assistant:</b>
-<br> Linear algebra, Intro to Differentiable Manifolds and Integration on Manifolds, 
-Intro to Riemannian Geometry, 2020-21
-<br>
-<br><b>Mentoring:</b>
-<br>UChicago REU mentor: 2020, 2021
+<br>Math 131, 132, 153, Calculus I-III	, 2021-22</p>
+  <p><b>Teaching Assistant:</b><br>Linear algebra, Intro to Differentiable Manifolds and Integration on Manifolds,
+Intro to Riemannian Geometry, 2020-21</p>
+  <p><b>Mentoring:</b><br>UChicago REU mentor: 2020, 2021
 <br>UChicago DRP mentor: 2021-2024</p>
+</div>
 	<!-- <br>Winter 2021 (Helena Perez-Stark: differential forms), 
 <br>Spring 2022 (Jen Tang: cohomology of S^n), 
 <br>Winter 2023 (Daohong Xu: p-adic numbers),
@@ -153,101 +204,15 @@ Intro to Riemannian Geometry, 2020-21
 									<br> April 2022, Algebra & Discrete Mathematics seminar, UC Davis
 									</section>-->
 									
-									<section id="miscellaneous">
-									<header class="major">
-										<h2>Miscellaneous</h2>
-									</header>
-									<div class="contents">
-									<p> If you live in Chicago, foster for <a href="https://hydeparkcats.org">Hyde Park Cats</a>!
-									<br>I highly recommend <a href="https://awm-math.org/meetings/awm-research-symposium/">the AWM Research Symposium</a>.
-
-									</div>
-								</section>
-
-
-						</div>
-					</div>
-
-				<!-- Sidebar -->
-					<div id="sidebar">
-						<div class="inner">
-
-							<!-- Search -->
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder=" " />
-									</form>
-								</section>
-
-							<!-- Menu -->
-								<nav id="menu">
-									<header class="major">
-									</header>
-									<ul>
-										<li><a href="#banner">About</a></li>
-										<li><a href="#research">Research</a></li>
-						
-										<li><a href="#teaching">Teaching</a></li>
-
-										<li><a href="./talks.html">Talks</a></li>
-
-		                        <li><a href="#miscellaneous">Miscellaneous</a></li>
-								</nav>
-
-							<!-- Section 
 							
-							<li>
-											<span class="opener">Seminars</span>
-											<ul>
-												<li><a href="link.html">Link homology seminar</a></li>
-											</ul>
-										</li>
-																		
-																				
-								<section>
-									<header class="major">
-										<h2>Ante interdum</h2>
-									</header>
-									<div class="mini-posts">
-										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-										</article>
-									</div>
-									<ul class="actions">
-										<li><a href="#" class="button">More</a></li>
-									</ul>
-								</section>
 
-							<!-- Section 
-								<section>
-									<header class="major">
-										<h2>Get in touch</h2>
-									</header>
-									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-									<ul class="contact">
-										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
-										<li class="icon solid fa-phone">(000) 000-0000</li>
-										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
-										Nashville, TN 00000-0000</li>
-									</ul>
-								</section>-->
 
 							<!-- Footer -->
-								<footer id="footer">
-									<p class="copyright">&copy;  Design: <a href="https://html5up.net">HTML5 UP</a></p>
-								</footer>
+						
 
 						</div>
 					</div>
+
 
 			</div>
 
